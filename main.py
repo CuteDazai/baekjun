@@ -1,2 +1,4 @@
-print(3)
-print('cutedazai')
+print("\\    /\\")
+print(" )  ( \')")
+print("(  /  )")
+print(" \\(__)|")
